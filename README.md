@@ -2,6 +2,8 @@
 
 Welcome to **DStack** – a modern starter template and front-end web development tech stack powered by [Next.js 15](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [TailwindCSS](https://tailwindcss.com), and [daisyUI](https://daisyui.com).
 
+Go check out the live demo [here](https://dstack-demo.vercel.app/)
+
 ## ✨ Features
 
 - **Next.js 15** with App Router
@@ -46,6 +48,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 * [Next.js Documentation](https://nextjs.org/docs)
 * [TailwindCSS Documentation](https://tailwindcss.com/docs)
 * [daisyUI Documentation](https://daisyui.com/docs)
+* [Live demo](https://dstack-demo.vercel.app)
 
 ## 📄 License
 
