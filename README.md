@@ -14,7 +14,7 @@ Welcome to **DStack** – a modern starter template and front-end web developmen
 To get started with DStack:
 
 ```bash
-npx create-dstack-app@latest my-app
+npm create dstack-app@latest
 cd my-app
 npm run dev
 ```
