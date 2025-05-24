@@ -1,6 +1,6 @@
 {
   "name": "create-dstack-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "description": "Init a project with DStack, a front-end tech stack.",
   "main": "./index.js",
