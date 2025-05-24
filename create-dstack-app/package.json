@@ -1,0 +1,32 @@
+{
+  "name": "create-dstack-app",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Init a project with DStack, a front-end tech stack.",
+  "main": "./index.js",
+  "bin": {
+    "create-dstack-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myferr/dstack-app.git"
+  },
+  "keywords": [
+    "frontend",
+    "techstack",
+    "stack",
+    "create"
+  ],
+  "author": "myferr <https://github.com/myferr>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/myferr/dstack-app/issues"
+  },
+  "homepage": "https://github.com/myferr/dstack-app/tree/main#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "inquirer": "^12.6.2",
+    "nanospinner": "^1.2.2"
+  }
+}
